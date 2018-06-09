@@ -1,4 +1,4 @@
 user:
-        username: Feathers
-        password: !@#$1234
-        age: 23
+    username: Feathers
+    password: !@#$1234
+    age: 23
